@@ -1,7 +1,7 @@
 # Fudan University Official Document Templates
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fudan-templates/.github/main/profile/avatar.png" alt="Fudan Templates Logo" width="200">
+  <img src="./avatar.png" alt="Fudan Templates Logo" width="200">
 </p>
 
 <p align="center">
